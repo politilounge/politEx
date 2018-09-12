@@ -1,4 +1,4 @@
-# politex
+# politEx
 Elixir Library wrapping Google Civic Information API
 
 # Project Motivations
